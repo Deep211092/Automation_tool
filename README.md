@@ -1,2 +1,2 @@
-# Revit automation Add-in files.
+# Revit automation.
 Store all codes and data for Revit automation tool develompent.
