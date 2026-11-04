@@ -1,0 +1,4 @@
+title: "CD\nSheets"
+tooltip: This tool Creates construction drawing sheets automatically in the active project. Construction drawing name and number will vary based on user input. Version - 1.0.0
+author: Soumyadeep Saha
+context: doc-project

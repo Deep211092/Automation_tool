@@ -1,0 +1,4 @@
+title: "Dependent\nViews"
+tooltip: Creates multiple Duplicate as Dependent views from the selected parent views. Each dependent view is named after its parent view, followed by a sequential number. Version- 1.0.0
+author: Soumyadeep Saha
+context: doc-project
