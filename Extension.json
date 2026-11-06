@@ -1,0 +1,14 @@
+{
+    "builtin": "False",
+    "default_enabled": "True",
+    "type": "extension",
+    "rocket_mode_compatible": "False",
+    "name": "Auto_Gen",
+    "description": "Extensions for PyRevit",
+    "author": "Soumyadeep Saha",
+    "author_profile": "",
+    "url": "https://github.com/Deep211092/Automation_tool.git",
+    "website": "",
+    "image": "",
+    "dependencies": []
+}
